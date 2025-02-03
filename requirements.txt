@@ -10,6 +10,8 @@ scipy>=1.4.1
 torch>=2.0.0
 torchvision>=0.15.1
 tqdm>=4.41.0
+requests
+psutil
 
 # logging -------------------------------------
 tensorboard>=2.4.1
